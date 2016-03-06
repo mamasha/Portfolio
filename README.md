@@ -1,4 +1,9 @@
-# Ruven Bass - Portfolio
+# Ruven Bass's portfolio
+
+Hello there. I am aiming to be a software architect. Architects build things.
+Here are my projects that took hours of thinking, designing and implementing.
+
+## Professional projects 
 
 ##### Architecture Stories
 - Programming towards interface
@@ -72,3 +77,5 @@ _(1991 - 1996)_
 - TSR library
 - Antidog story
 - Gomocku game and combination search tree in assembler
+
+## Private projects (not programming)
