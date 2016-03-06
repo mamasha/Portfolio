@@ -1,19 +1,20 @@
 # Ruven Bass's portfolio
 
 Hello there. I am aiming to be a software architect. Architects build things.
-Here are my projects that took hours of thinking, designing and implementing.
+Here is my journy - my projects that took hours of thinking, designing and implementing.
 
-## Professional projects 
-
-##### Architecture Stories
-- Programming towards interface
-- Decorator, sequence of operations and separation of concerns
-- Functional programming vs object oriented programming
-- Service oriented programming 
+##### Architecture
+- **[Programming to an interface](Architecture/programming-to-an-interface.md)**
+- **[Separation of concerns through decorator and sequence of operations](separation-of-concerns.md)**
+- **[Five principals of any design](five-principals.md)**
+- **[Functional programming vs object oriented programming](fp-vs-oop.md)**
+- **[Service oriented programming](soa-programming.md)**
 - Volatility based decomposition
-- Fighting complexity (Interfaces, code beauty, inner if/loop/else/try, variables naming)
+- **[Fighting complexity](fighting-complexity.md)**
 - Error handling how, when and why
 - Threading and synchronization models
+
+## Professional projects 
 
 ##### Ubinary 
 Architect / Senior Developer _(March 2013 - August 2015)_
