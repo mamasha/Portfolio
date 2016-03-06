@@ -5,12 +5,12 @@ Here is my journy - my projects that took hours of thinking, designing and imple
 
 ##### Architecture
 - **[Programming to an interface](Architecture/programming-to-an-interface.md)**
-- **[Separation of concerns through decorator and sequence of operations](separation-of-concerns.md)**
-- **[Five principals of any design](five-principals.md)**
-- **[Functional programming vs object oriented programming](fp-vs-oop.md)**
-- **[Service oriented programming](soa-programming.md)**
+- **[Separation of concerns through decorator and sequence of operations](Architecture/separation-of-concerns.md)**
+- **[Five principals of any design](Architecture/five-principals.md)**
+- **[Functional programming vs object oriented programming](Architecture/fp-vs-oop.md)**
+- **[Service oriented programming](Architecture/soa-programming.md)**
 - Volatility based decomposition
-- **[Fighting complexity](fighting-complexity.md)**
+- **[Fighting complexity](Architecture/fighting-complexity.md)**
 - Error handling how, when and why
 - Threading and synchronization models
 
