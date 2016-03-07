@@ -1,7 +1,7 @@
-# Ruven Bass's portfolio
+# Reuven Bass's portfolio
 
 Hello there. I am aiming to be a software architect. Architects build things.
-Here is my journy - my projects that took hours of thinking, designing and implementing.
+Here is my journey - my projects that took hours of thinking, designing and implementing.
 
 ##### Architecture
 - **[Programming to an interface](Architecture/programming-to-an-interface.md)**
@@ -12,7 +12,7 @@ Here is my journy - my projects that took hours of thinking, designing and imple
 - Volatility based decomposition
 - **[Fighting complexity](Architecture/fighting-complexity.md)**
 - Error handling how, when and why
-- Monitoring and troubleshooting highly concurrent havy loaded message oriented infrustructure
+- Monitoring and troubleshooting highly concurrent heavy loaded message oriented infrastructure
 - Threading and synchronization models
 
 ## Professional projects 
@@ -20,8 +20,8 @@ Here is my journy - my projects that took hours of thinking, designing and imple
 ##### Ubinary 
 Architect / Senior Developer _(March 2013 - August 2015)_
 
-- Re-factoring quote cache (performance bottleneck, a legacy core component)
-- Signals - a pub/sub project (requirements, technology, design, implementation)
+- **[Re-factoring quote cache](quote-cache.md)** (performance bottleneck, a legacy core component)
+- **[Signals - a pub/sub component](signals.md)** (requirements, technology, design, implementation)
 - Journey to micro-services and how I get the term
 - Deployment with Dropbox
 - Why and how to work without QA (logging, and troubleshooting approach)
@@ -78,6 +78,4 @@ _(1991 - 1996)_
 
 - TSR library
 - Antidog story
-- Gomocku game and combination search tree in assembler
-
-## Private projects (not programming)
+- Gomoku game and combination search tree in assembler
