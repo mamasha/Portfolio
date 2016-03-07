@@ -44,6 +44,8 @@ Founder and CTO _(February 2010 - December 2012)_
 - Vcall concepts and thoughts
 - Vcall components
 
+<p style="page-break-after: always;"></p>
+
 ##### Applied Materials
 Infrastructures Developer / Team Leader _(March 2003 - January 2010)_
 
