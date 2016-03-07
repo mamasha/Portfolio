@@ -12,6 +12,7 @@ Here is my journy - my projects that took hours of thinking, designing and imple
 - Volatility based decomposition
 - **[Fighting complexity](Architecture/fighting-complexity.md)**
 - Error handling how, when and why
+- Monitoring and troubleshooting highly concurrent havy loaded message oriented infrustructure
 - Threading and synchronization models
 
 ## Professional projects 
