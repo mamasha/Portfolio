@@ -1,5 +1,8 @@
 # Reuven Bass's portfolio
 
+_<small>Currently is under construction ...</small>_  
+
+
 Hello there. I am aiming to be a software architect. Architects build things.
 Here is my journey - my projects that took hours of thinking, designing and implementing.
 
